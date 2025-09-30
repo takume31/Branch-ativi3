@@ -1,0 +1,1 @@
+echo "console.log('Funcionalidade 1 - parte 1');" > funcionalidade1.js
